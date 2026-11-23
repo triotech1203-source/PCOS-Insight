@@ -1,6 +1,6 @@
 # PCOS Insight
 
-### Multi-class PCOS Subtype Classification using Multimodal Fusion of Clinical Biomarkers and Ultrasound Features with Explainable AI
+### Multiclass PCOS Subtype Classification using Multimodal Fusion of Clinical Biomarkers and Ultrasound Features with Explainable AI
 
 ## 🚀 Live Demo
 
